@@ -1,6 +1,6 @@
 # Dutch Auction NFT (decreasing price)
 
-Note: baed on an modified version of CRIPS... https://github.com/FrankieIsLost/CRISP
+Note: based on an modified version of CRIPS... https://github.com/FrankieIsLost/CRISP
 
 
 ## Introduction
